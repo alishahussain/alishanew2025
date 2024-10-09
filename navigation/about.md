@@ -15,6 +15,8 @@ I have a passion for computing and robotics, and I've been exploring these field
 
 ---
 
+![collage](../images/cscollage.jpg)
+
 <div class="hobby-container">
     <img src="https://github.com/user-attachments/assets/0a6598b7-f8d4-409a-9cea-dd3d995dc405" alt="Sushi" class="main-image2">
     <p class="sushi-text">
