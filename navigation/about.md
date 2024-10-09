@@ -5,10 +5,6 @@ permalink: /about/
 ---
 
 
-<h4>My Junior Year Schedule:</h4>
-
-<img src="https://github.com/user-attachments/assets/b12f4e59-bdef-4583-adfa-85f3dd976fa1" alt="My Junior Year Schedule" style="height:400px;">
-
 ### About Me
 
 I have a passion for computing and robotics, and I've been exploring these fields both in and out of school. Recently, I had the amazing opportunity to shadow an interventional radiologist, which deepened my interest in the intersection of technology and medicine. When I’m not diving into robotics or school projects, I love indulging in some of my favorite hobbies!
@@ -16,6 +12,14 @@ I have a passion for computing and robotics, and I've been exploring these field
 ---
 
 ![collage](../images/cscollage.jpg)
+
+---
+
+<h4>My Junior Year Schedule:</h4>
+
+<img src="https://github.com/user-attachments/assets/b12f4e59-bdef-4583-adfa-85f3dd976fa1" alt="My Junior Year Schedule" style="height:400px;">
+
+---
 
 <div class="hobby-container">
     <img src="https://github.com/user-attachments/assets/0a6598b7-f8d4-409a-9cea-dd3d995dc405" alt="Sushi" class="main-image2">
